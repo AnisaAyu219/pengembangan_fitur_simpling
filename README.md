@@ -1,7 +1,6 @@
 ## 📌 Development of Monitoring, Lab Visit, and Comparative Testing Features in the SIMPLING Application of the Banyuwangi Environmental Agency
 
-## ⚠️ Source Code Not Included
-
+### ⚠️ Source Code Not Included
 This project was developed as part of an internship with  Banyuwangi Environmental Agency, and the source code cannot be publicly shared due to confidentiality and client policy.
 
 ### 🚧 Problem Statement
