@@ -1,12 +1,15 @@
 ## 📌 Development of Monitoring, Lab Visit, and Comparative Testing Features in the SIMPLING Application of the Banyuwangi Environmental Agency
 
+## ⚠️ Source Code Not Included
+
+This project was developed as part of an internship with  Banyuwangi Environmental Agency, and the source code cannot be publicly shared due to confidentiality and client policy.
+
 ### 🚧 Problem Statement
 The Environmental Laboratory Service Management Information System (SIMPLING) was developed to simplify the process for clients in registering sample tests and accessing test results online. However, the UPTD Environmental Laboratory still faces several technical challenges.
 
 One of the main issues is the unstructured storage of monitoring data. Test results from various categories such as water, air, and sediment, are stored as test reports LHU (Laporan Hasil Uji) without separation or categorization. To access specific data, analysts must download each report individually, which is time-consuming and inefficient. This significantly hinders quick data review and analysis.
 
 Additionally, laboratory visit records are still documented manually, making it difficult to search historical data and increasing the administrative workload. While SIMPLING has improved some aspects of the service, further development is needed to enhance overall data management efficiency and service quality.
-
 
 
 ### 💡 Proposed Solution
